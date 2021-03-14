@@ -1446,7 +1446,7 @@ hr:before {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\f0c4';
+  content: '\f533';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
@@ -4974,7 +4974,7 @@ _:future,
   background: url("/myimg/comment_bg.png") 100% 100% no-repeat;
 }
 #waline-wrap textarea {
-  background: url("/image/comment_bg.png") 100% 100% no-repeat;
+  background: url("/myimg/comment_bg.png") 100% 100% no-repeat;
 }
 .fireworks {
   position: fixed;
