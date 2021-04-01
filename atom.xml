@@ -6,7 +6,7 @@
   <link href="https://hnnwb.github.io/atom.xml" rel="self"/>
   
   <link href="https://hnnwb.github.io/"/>
-  <updated>2021-03-20T14:24:03.781Z</updated>
+  <updated>2021-03-31T15:37:47.584Z</updated>
   <id>https://hnnwb.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hnnwb.github.io/2021/03/14/springcloudalibaba/"/>
     <id>https://hnnwb.github.io/2021/03/14/springcloudalibaba/</id>
     <published>2021-03-14T07:51:08.000Z</published>
-    <updated>2021-03-20T14:24:03.781Z</updated>
+    <updated>2021-03-31T15:37:47.584Z</updated>
     
     
       
@@ -92,13 +92,13 @@
     <category term="springCloud" scheme="https://hnnwb.github.io/categories/springCloud/"/>
     
     
-    <category term="springCloudAlibaba" scheme="https://hnnwb.github.io/tags/springCloudAlibaba/"/>
-    
     <category term="springCloud" scheme="https://hnnwb.github.io/tags/springCloud/"/>
     
     <category term="分布式" scheme="https://hnnwb.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
     <category term="微服务" scheme="https://hnnwb.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="springCloudAlibaba" scheme="https://hnnwb.github.io/tags/springCloudAlibaba/"/>
     
   </entry>
   
