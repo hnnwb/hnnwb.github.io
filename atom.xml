@@ -6,7 +6,7 @@
   <link href="https://hnnwb.github.io/atom.xml" rel="self"/>
   
   <link href="https://hnnwb.github.io/"/>
-  <updated>2021-04-07T15:03:49.454Z</updated>
+  <updated>2021-06-25T05:32:52.868Z</updated>
   <id>https://hnnwb.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java自带常用工具类</title>
+    <link href="https://hnnwb.github.io/2021/06/25/java-chang-yong-gong-ju-lei/"/>
+    <id>https://hnnwb.github.io/2021/06/25/java-chang-yong-gong-ju-lei/</id>
+    <published>2021-06-25T05:25:20.000Z</published>
+    <updated>2021-06-25T05:32:52.868Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-Java自带工具方法&quot;&gt;&lt;a href=&quot;#1-Java自带工具方法&quot; class=&quot;headerlink&quot; title=&quot;1. Java自带工具方法&quot;&gt;&lt;/a&gt;1. Java自带工具方法&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="JAVA工具类" scheme="https://hnnwb.github.io/categories/JAVA%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
+    
+    
+    <category term="JAVA工具类" scheme="https://hnnwb.github.io/tags/JAVA%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>springCloudAlibaba</title>
