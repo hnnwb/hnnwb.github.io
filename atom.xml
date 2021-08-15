@@ -6,7 +6,7 @@
   <link href="https://hnnwb.github.io/atom.xml" rel="self"/>
   
   <link href="https://hnnwb.github.io/"/>
-  <updated>2021-06-25T05:32:52.868Z</updated>
+  <updated>2021-08-15T13:06:18.776Z</updated>
   <id>https://hnnwb.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql学习之路</title>
+    <link href="https://hnnwb.github.io/2021/08/15/mysql-xue-xi-zhi-lu/"/>
+    <id>https://hnnwb.github.io/2021/08/15/mysql-xue-xi-zhi-lu/</id>
+    <published>2021-08-15T08:56:43.000Z</published>
+    <updated>2021-08-15T13:06:18.776Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;MySQL&quot;&gt;&lt;a href=&quot;#MySQL&quot; class=&quot;headerlink&quot; title=&quot;MySQL&quot;&gt;&lt;/a&gt;MySQL&lt;/h1&gt;&lt;h3 id=&quot;Mysql数据库环境搭建&quot;&gt;&lt;a href=&quot;#Mysql数据库环境搭建&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="https://hnnwb.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="mysql" scheme="https://hnnwb.github.io/tags/mysql/"/>
+    
+  </entry>
   
   <entry>
     <title>Java自带常用工具类</title>
